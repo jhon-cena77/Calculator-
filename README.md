@@ -1,1 +1,1 @@
-Calculator a simple html calculator for begginers
+A simple html calculator for begginers.
